@@ -4,7 +4,8 @@ Please note that this is a test version of the app as I've recently just started
 
 # Known Bugs (lol)
 - HTML Injection
-- More other things
+- Using Python to create a Window application
+- Many other things
 
 # Screenshots
 ![image](https://user-images.githubusercontent.com/54730301/184194235-6be716bd-c295-48e4-8a34-dab17e21dc42.png)
