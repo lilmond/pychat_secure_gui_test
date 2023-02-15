@@ -15,7 +15,7 @@ def client_handle(client):
       full_data = b""
       error = False
       while True:
-        chunk = client.recv(2048)
+        chunk = client.recv(1)
         if len(chunk) <= 0:
           error = True
           break
